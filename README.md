@@ -4,7 +4,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/yossidoctor/AI-Traffic-Lights-Controller.git
+git clone https://github.com/Sandhiya1305/Optimized-Traffic-Routing-System-for-Urban-Congestion-Management.git
 cd Optimized-Traffic-Routing-System-for-Urban-Congestion-Management
 pip install -r requirements.txt
 ```
